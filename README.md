@@ -12,16 +12,11 @@
 📚 I’m a final year Actuarial Science undergraduate in University of Seoul Women's University<br>
 📈 I experienced in Deep Learning, Data Analysis, Data Visualization and Forecasting <br>
 🏆 My certifications: 
-<ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
-</ul>
+
 📫 Reach me at <a href="mailto:jisoo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
 
 <strong>💡 My Languages :</strong><br><br>
@@ -30,8 +25,8 @@
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
 <img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoo0-0&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jisoo0-0&repo=jisoo0-0&theme=radical)](https://github.com/jisoo0-0/jisoo0-0)
 </div>
