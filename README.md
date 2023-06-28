@@ -8,7 +8,7 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 📚 Education
+💻 📚 **Education**
 
 **Busan Foreign Language High School**    
 March, 2014 -February, 2016   
@@ -20,10 +20,10 @@ March,2016 - Withdrawal
 March, 2019 - February, 2023   
 *School of Business Administration*     
 *School of Software Convergence*   
-	- GPA: **4.24/4.5**
+	- GPA: 4.24/4.5
 
 **Korea University**, (MS/Ph.D)
-March, 2023 – **Current**   
+March, 2023 – Current   
 *School of Industrial and Management Engineering*      
 
 
@@ -31,7 +31,7 @@ March, 2023 – **Current**
 
 📫 Reach me at <a href="mailto:jisoo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
 
-<strong>📊 My Github Stats :</strong><br><br>
+<strong>📊 **My Github Stats** :</strong><br><br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
 
@@ -43,6 +43,6 @@ March, 2023 – **Current**
 <img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoo0-0&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
-<strong>🚀 My Latest Update :</strong><br><br>
+<strong>🚀 **My Latest Update** :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jisoo0-0&repo=jisoo0-0&theme=radical)](https://github.com/jisoo0-0/jisoo0-0)
 </div>
