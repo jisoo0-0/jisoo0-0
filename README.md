@@ -10,13 +10,22 @@
 <strong>About Me:</strong><br>
 💻 📚 Education
 
-Seoul Women’s University (BS)
-March, 2019 - February, 2023
-School of Business Administration
-School of Software Convergence (GPA: 4.24/4.5)
+**Busan Foreign Language High School**    
+March, 2014 -February, 2016   
 
-Korea University, (MS/Ph.D) March, 2023 – Current
-School of Industrial and Management Engineering
+**Seoul Institute of the Arts**     
+March,2016 - Withdrawal     
+
+**Seoul Women’s University** (BS)    
+March, 2019 - February, 2023   
+*School of Business Administration*     
+*School of Software Convergence*   
+	- GPA: **4.24/4.5**
+
+**Korea University**, (MS/Ph.D)
+March, 2023 – **Current**   
+*School of Industrial and Management Engineering*      
+
 
 📈🏆 I experienced in Deep Learning, Data Analysis, Data Visualization and Forecasting <br>
 
