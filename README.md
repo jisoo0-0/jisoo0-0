@@ -8,10 +8,18 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-📚 I’m a final year Actuarial Science undergraduate in University of Seoul Women's University<br>
-📈 I experienced in Deep Learning, Data Analysis, Data Visualization and Forecasting <br>
-🏆 My certifications: 
+💻 📚 Education
+
+Seoul Women’s University (BS)
+March, 2019 - February, 2023
+School of Business Administration
+School of Software Convergence
+- GPA: 4.24/4.5
+
+Korea University, (MS/Ph.D) March, 2023 – Current
+School of Industrial and Management Engineering
+
+📈🏆 I experienced in Deep Learning, Data Analysis, Data Visualization and Forecasting <br>
 
 📫 Reach me at <a href="mailto:jisoo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
 
