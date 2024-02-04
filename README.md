@@ -28,7 +28,7 @@ March, 2023 – Current
 *School of Industrial and Management Engineering*      
 
 
-📈🏆 I experienced in Deep Learning, Data Analysis, Data Visualization and Forecasting <br>
+📈🏆 I'm interested at Computer Vision, Data Analysis, Data Visualization, and Forecasting <br>
 
 📫 Reach me at <a href="mailto:jisoo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
 
