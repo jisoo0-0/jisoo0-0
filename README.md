@@ -19,12 +19,11 @@ March,2016 - Withdrawal
 
 **Seoul Women’s University (BS)**   
 March, 2019 - February, 2023   
-
 *School of Business Administration*     
 *School of Software Convergence*   
 	- GPA: 4.24/4.5
 
-**Korea University, (MS)** 
+**Korea University, (MS)**     
 March, 2023 – Current   
 *School of Industrial and Management Engineering*      
 
