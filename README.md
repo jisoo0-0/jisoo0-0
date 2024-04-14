@@ -24,6 +24,7 @@ March, 2019 - February, 2023
 	- GPA: 4.24/4.5
 
 **Korea University, (MS)**
+
 March, 2023 – Current   
 *School of Industrial and Management Engineering*      
 
