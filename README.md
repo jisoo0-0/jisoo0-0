@@ -14,8 +14,6 @@
 **Busan Foreign Language High School**  
 March, 2014 -February, 2016   
 
-**Seoul Institute of the Arts**     
-March,2016 - Withdrawal     
 
 **Seoul Women’s University (BS)**   
 March, 2019 - February, 2023   
