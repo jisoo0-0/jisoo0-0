@@ -11,21 +11,6 @@
 
 💻 📚 **Education**
 	
-**Busan Foreign Language High School**  
-March, 2014 -February, 2016   
-
-
-**Seoul Women’s University (BS)**   
-March, 2019 - February, 2023   
-*School of Business Administration*     
-*School of Software Convergence*   
-	- GPA: 4.24/4.5
-
-**Korea University, (MS)**     
-March, 2023 – Current   
-*School of Industrial and Management Engineering*      
-
-
 📈🏆 I'm interested at Computer Vision, Data Analysis, Data Visualization, and Forecasting <br>
 
 📫 Reach me at <a href="mailto:jisoo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
