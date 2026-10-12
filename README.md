@@ -13,7 +13,7 @@
 	
 📈🏆 I'm interested at Computer Vision, Data Analysis, Data Visualization, and Forecasting <br>
 
-📫 Reach me at <a href="mailto:jisoo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
+📫 Reach me at <a href="mailto:ji_soo_o@korea.ac.kr">jisoo_o@korea.ac.kr</a><br>
 
 <strong>📊 **My Github Stats** :</strong><br><br>
 
